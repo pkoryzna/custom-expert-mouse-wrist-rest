@@ -1,4 +1,6 @@
-# 3D printed wrist rest for Kensington Expert Mouse trackball
+# Customizable 3D printed wrist rest for Kensington Expert Mouse trackball
+
+[**Download, comment and like on Printables.com**](https://www.printables.com/model/942199-customizable-kensington-expert-mouse-wrist-rest)
 
 The wrist rest that came with my Kensington Expert Mouse broke, 
 so I designed and 3D printed my own.
